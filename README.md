@@ -22,5 +22,7 @@ curl -O https://raw.githubusercontent.com/Schwarzeisc00l/can-i-update/main/ciu &
 ```
 
 ## Usage 
-`ciu` to check 
+`ciu` to check
+
+
 `ciu --vm` to see the VM specs.
