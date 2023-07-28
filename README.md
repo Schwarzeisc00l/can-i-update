@@ -71,7 +71,7 @@ Virtual Machine Specs: QEMU, 1 Core and 1024MB memory.
 ## About
 
 Why?
-`Too many broken Arch installations.`
+`Too many broken Arch systens.`
 
 
 
