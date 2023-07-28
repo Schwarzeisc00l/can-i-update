@@ -67,5 +67,9 @@ Why?
 
 
 
-How often do you check?
+How often do you update the WM?
 `Normally once a week. I don't know about later.`
+
+
+How does it work?
+`I update a Virtual Machine once a week.`
