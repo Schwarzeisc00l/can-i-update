@@ -1,5 +1,13 @@
 # can-i-update
 Check if its safe to update Arch!
+
+
+![fc7eb15a-c89a-4244-82af-4c356a6d4e0c](https://github.com/Schwarzeisc00l/can-i-update/assets/78359804/e91208f1-1593-4edd-9ade-e87e29c70dd6)
+
+
+
+
+
 ## Installation
 Required packages:
 
@@ -73,3 +81,9 @@ How often do you update the WM?
 
 How does it work?
 `I update a Virtual Machine once a week.`
+
+
+## Donate 
+It would be appreciated
+
+`BTC:`
