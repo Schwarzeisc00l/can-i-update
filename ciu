@@ -1,0 +1,26 @@
+#!/bin/bash
+
+check="https://raw.githubusercontent.com/Schwarzeisc00l/can-i-update/main/status"
+
+function vm() {
+  echo "Vanilla Arch with no extra packages installed.
+Bootloader: grub
+Network: NetworkManager (Using wired, this project won't help with wifi.)
+Drive: "Ext4"
+Virtual Machine Specs: "QEMU, 1 Core and 1024MB memory."
+
+
+
+
+
+
+
+  "
+}
+
+if [ "$1" == "--vm" ]; then
+  vm 
+else
+  curl "$check"
+fi
+
