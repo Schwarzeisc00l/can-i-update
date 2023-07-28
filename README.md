@@ -86,4 +86,6 @@ How does it work?
 ## Donate 
 It would be appreciated
 
-`BTC:`
+`BTC:1LbADNMN8dtKD2xc9x123MsGtcUBr5F7YU`
+`XMR:89UZZZEJ97JPcLH8PmPev4FacdYWkc3rw7pG171iobdFUcxVZBDR2iCAgX3f94t1eGP6PJ8u8udBE67YoryUfm6eDVpaYUe`
+`BCH:bitcoincash:qzzcx6f206cmr4lptgkg6pwsjjc8rgzt2s0fejj8sa`
