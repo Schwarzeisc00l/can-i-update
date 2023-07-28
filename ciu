@@ -3,7 +3,7 @@
 check="https://raw.githubusercontent.com/Schwarzeisc00l/can-i-update/main/status"
 
 function vm() {
-  echo "Vanilla Arch with no extra packages installed.
+  echo "Minimal Arch with no extra packages installed.
 Bootloader: grub
 Network: NetworkManager (Using wired, this project won't help with wifi.)
 Drive: "Ext4"
